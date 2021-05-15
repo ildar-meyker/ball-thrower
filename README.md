@@ -3,9 +3,8 @@
 Проект находится на стадии планирования.
 
 Оборудование:
-(test_dir)
 - 2 мотор-колеса;
-![2 мотор-колеса]([my directory]/images/motors+wheels.jpg)
+![2 мотор-колеса](https://github.com/ildar-meyker/ball-thrower/blob/master/images/motor+wheel.webp?raw=true)
 - плата Iskra.js;
 - драйвер двигателя L298N;
 - аккумулятор на 3.5V;
